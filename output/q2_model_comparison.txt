@@ -1,0 +1,2 @@
+Linear Regression -Training - R²: 0.6126, RMSE: 0.72Test - R²: 0.7389, RMSE: 0.58n
+Random Forest -Training - R²: 0.8042, RMSE: 0.51Test - R²: 0.7389, RMSE: 0.58

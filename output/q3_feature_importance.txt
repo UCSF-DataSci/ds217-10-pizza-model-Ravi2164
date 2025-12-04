@@ -1,0 +1,19 @@
+
+=== XGBoost Feature Importance ===   feature  xgb_importance
+    MedInc        0.408331
+  AveOccup        0.153159
+  AveRooms        0.144914
+ Longitude        0.091446
+  Latitude        0.079792
+  HouseAge        0.071152
+ AveBedrms        0.040399
+Population        0.010808
+=== Feature Importance Comparison ===   feature  random_forest  xgboost
+    MedInc       0.645676 0.408331
+  AveOccup       0.025126 0.153159
+  AveRooms       0.062225 0.144914
+ Longitude       0.009394 0.091446
+  Latitude       0.010167 0.079792
+  HouseAge       0.140576 0.071152
+ AveBedrms       0.060381 0.040399
+Population       0.046454 0.010808
